@@ -1,0 +1,1 @@
+document.write('<footer><div id="footer"><div class="container"><a href="people.html" class="btn btn-info">People</a><a href="about.html" class="btn btn-info">About</a><a href="services.html" class="btn btn-info">Services</a><a href="contact.html" class="btn btn-info">Contact Us</a></div></div></footer>')
