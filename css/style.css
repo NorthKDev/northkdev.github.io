@@ -1,0 +1,55 @@
+#main {
+  text-align: center;
+  background-image:url('../images/background.jpg');
+  background-color: #eee;
+}
+
+@media (min-width: 992px) and (max-width: 1096px) {
+  .container {
+    width: 100%;
+  }
+}
+
+.col-md-12 {
+  height:300px;
+  float:left;
+}
+
+.col-md-12 img {
+  width:100%;
+  max-height: 275px;
+  max-width: 700px;
+}
+
+#fred_profile {
+  height:400px;
+  width:50%;
+  float: left;
+}
+
+#neil_profile {
+  height:400px;
+  width:50%;
+  float:left;
+}
+
+#footer .container{
+  height: 60px;
+  border-radius: 5px;
+  background-color: #eee;
+}
+
+#footer ul{
+  position: relative;
+  list-style-type: none;
+  text-align: center;
+}
+
+#footer li {
+  margin:20px;
+  display: inline;
+}
+
+#footer li a {
+  margin: 50px;
+}
